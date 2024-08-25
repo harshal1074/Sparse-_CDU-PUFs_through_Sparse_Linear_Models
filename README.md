@@ -1,4 +1,4 @@
-# Sparse_CDU-PUFs_through_Sparse_Linear_Models
+# Sparse_Linear_Model_for_CDU_PUF_Optimization
 Sparse Linear Model for CDU PUF Analysis
 This repository contains Python code that implements a sparse linear model to analyze and exploit vulnerabilities in Sparse Challenge-Response Pair (CRP) Physical Unclonable Functions (PUFs). The code demonstrates the feasibility of predicting responses for a given set of challenges using a sparse linear model.
 
